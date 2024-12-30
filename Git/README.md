@@ -27,3 +27,5 @@ TODO: We will use this newly created readme to complete the git assignment below
 4. Create a Merge Request (MR): Once your changes are complete, submit an
    MR. I will be added as a reviewer to ensure proper Git practices are followed
    and to review the creativity of your changes.
+
+PS: Making this change to record a video on pull requests for my linkedin post (loool!!)
