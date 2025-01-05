@@ -65,7 +65,3 @@ With a thirst for knowledge and a passion for high-quality code, I am excited to
 Feel free to browse the notes, scripts, and assignments in this repository. If you’re also passionate about DevOps, connect with me and let’s learn together! This is a journey of discovery, improvement, and building expertise in a field that is shaping the future of technology.
 
 Let’s code. Let’s learn. Let’s transform.
-
----
-
-Let me know if you'd like to expand or refine any section!
