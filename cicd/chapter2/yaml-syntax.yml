@@ -1,0 +1,19 @@
+# Understanding the elements of a yaml file
+
+# key value pairs
+name: yahya
+age: 21
+job: Devops
+
+# lIST
+Fruits:
+  - apple
+  - banana
+  - cherry
+
+#nested elements
+
+address:
+  street: 123 Downing street
+  city: london
+  country: united kingdom
